@@ -1,0 +1,94 @@
+{
+  "1781548153013": {
+    "originalName": "Header.png",
+    "fileName": "1781548153013.png",
+    "size": 166939,
+    "url": "${appResourceUrl}/images/background_setting/1781548153013.png",
+    "created": 1781548153013,
+    "resourcesPrefix": "images/background_setting",
+    "referredIds": [],
+    "originId": "1781548153013",
+    "fileFormat": "image/png",
+    "originalWidth": 960,
+    "originalHeight": 128
+  },
+  "1781548425361": {
+    "originalName": "NOAA Logo.png",
+    "fileName": "1781548425361.png",
+    "size": 56354,
+    "url": "${appResourceUrl}/images/widget_34/1781548425361.png",
+    "created": 1781548425361,
+    "resourcesPrefix": "images/widget_34",
+    "referredIds": [],
+    "originId": "1781548425361",
+    "fileFormat": "image/png",
+    "originalWidth": 300,
+    "originalHeight": 300
+  },
+  "1788476263963": {
+    "file": {},
+    "fileName": "1788476263963.jpeg",
+    "url": "${appResourceUrl}/images/templates/1788476263963.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1781548153013",
+    "resourcesPrefix": "images/templates"
+  },
+  "1788476991611": {
+    "originalName": "19157782703_69c03d43f8_c.jpg",
+    "fileName": "1788476991611.jpg",
+    "size": 211407,
+    "url": "${appResourceUrl}/images/background_setting/1788476991611.jpg",
+    "created": 1788476991611,
+    "resourcesPrefix": "images/background_setting",
+    "referredIds": [],
+    "originId": "1788476991611",
+    "fileFormat": "image/jpeg",
+    "originalWidth": 799,
+    "originalHeight": 669
+  },
+  "1788477445353": {
+    "file": {},
+    "fileName": "1788477445353.jpeg",
+    "url": "${appResourceUrl}/images/templates/1788477445353.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1788476991611",
+    "resourcesPrefix": "images/templates"
+  },
+  "1788477468237": {
+    "file": {},
+    "fileName": "1788477468237.jpeg",
+    "url": "${appResourceUrl}/images/templates/1788477468237.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1788476991611",
+    "resourcesPrefix": "images/templates"
+  },
+  "1788477537294": {
+    "originalName": "19778686475_1e1463f375_c.jpg",
+    "fileName": "1788477537294.jpg",
+    "size": 95045,
+    "url": "${appResourceUrl}/images/widget_190/1788477537294.jpg",
+    "created": 1788477537294,
+    "resourcesPrefix": "images/widget_190",
+    "referredIds": [],
+    "originId": "1788477537294",
+    "fileFormat": "image/jpeg",
+    "originalWidth": 800,
+    "originalHeight": 450
+  },
+  "1788479245850": {
+    "originalName": "Feedback Form_compress.gif",
+    "fileName": "1788479245850.gif",
+    "size": 4612622,
+    "url": "${appResourceUrl}/images/widget_188/1788479245850.gif",
+    "created": 1788479245850,
+    "resourcesPrefix": "images/widget_188",
+    "referredIds": [],
+    "originId": "1788479245850",
+    "fileFormat": "image/gif",
+    "originalWidth": 1912,
+    "originalHeight": 912
+  }
+}
