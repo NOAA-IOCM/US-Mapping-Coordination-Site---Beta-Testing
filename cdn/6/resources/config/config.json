@@ -3863,7 +3863,7 @@
         "direction": "HORIZONTAL",
         "collapseSide": "FIRST",
         "overlay": false,
-        "size": "276px",
+        "size": "298px",
         "divider": {
           "visible": true,
           "lineStyle": {
@@ -4546,15 +4546,15 @@
             "type": "Web Map"
           },
           {
-            "id": "e4e47a9c699a413b823c36cf2883da23",
-            "title": "GEBCO Gray Basemap with Labels (NOAA NCEI Visualization)",
-            "thumbnailUrl": "https://noaa.maps.arcgis.com/sharing/rest/content/items/e4e47a9c699a413b823c36cf2883da23/info/thumbnail/thumbnail1660084758237.png",
-            "type": "Web Map"
-          },
-          {
             "id": "d9eb1392e6504930b5fbd9689ac32ff4",
             "title": "Terrain with Labels",
             "thumbnailUrl": "https://noaa.maps.arcgis.com/sharing/rest/content/items/d9eb1392e6504930b5fbd9689ac32ff4/info/thumbnail/thumbnail1739561455762.png",
+            "type": "Web Map"
+          },
+          {
+            "id": "8d57f09b9df345e79945f0f3da1d4d0f",
+            "title": "Topographic (Vector)",
+            "thumbnailUrl": "https://noaa.maps.arcgis.com/sharing/rest/content/items/8d57f09b9df345e79945f0f3da1d4d0f/info/thumbnail/thumbnail1739386472490.png",
             "type": "Web Map"
           }
         ],
@@ -6276,6 +6276,7 @@
       "label": "Header Text",
       "config": {
         "text": "<p><strong style=\"font-size: 15px; color: var(--mixin-shared-theme-header-color);\">U.S. Mapping Coordination</strong></p><p><em style=\"color: var(--mixin-shared-theme-header-color); font-size: 0.9375rem;\">A Collaboration Site for Mapping Data Acquisition</em>﻿</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -6331,7 +6332,7 @@
                       "valueOptions": {
                         "isValid": true,
                         "sourceType": "MULTIPLE",
-                        "inputEditor": "MULTIPLE_SELECT",
+                        "inputEditor": "MULTIPLE_EXPANDED_LIST",
                         "value": null
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
@@ -6356,7 +6357,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": "Select Data Type",
+                        "label": "Select Data Type(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -6376,7 +6377,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": "Select Organization or Program",
+                        "label": "Select Organization or Program(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -6396,7 +6397,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": "Select Calendar Year",
+                        "label": "Select Calendar Year(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -6500,7 +6501,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": null,
+                        "label": "Select Region(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "NONE"
@@ -6546,7 +6547,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": null,
+                        "label": "Select Organization(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -6566,7 +6567,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": null,
+                        "label": "Select Interest Category(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -6586,7 +6587,7 @@
                       },
                       "displayType": "USE_ASK_FOR_VALUE",
                       "askForValueOptions": {
-                        "label": null,
+                        "label": "Select an Interest(s)",
                         "display": "BLOCK",
                         "hint": "",
                         "cascade": "ALL"
@@ -7432,6 +7433,7 @@
       "label": "Text 4",
       "config": {
         "text": "<h6 style=\"text-align: center;\"><strong style=\"color: var(--mixin-shared-theme-body-link);\">﻿Select a Basemap</strong></h6>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         },
@@ -7453,6 +7455,7 @@
       "label": "Text 5",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Select Map Layers of Interest</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7465,6 +7468,7 @@
       "label": "Text 6",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Legend(s)﻿</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7477,6 +7481,7 @@
       "label": "Text 7",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Filter by Survey Plans and Spatial Priority Results</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7489,6 +7494,7 @@
       "label": "Text 8",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"color: var(--mixin-shared-theme-body-link); font-size: 18px;\">Discover Project Overlaps</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7555,6 +7561,7 @@
       "label": "Text 9",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Add External Data</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7567,6 +7574,7 @@
       "label": "Text 10",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Measurement Tool</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7579,6 +7587,7 @@
       "label": "Text 11",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Share </strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -7591,6 +7600,7 @@
       "label": "Text 12",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">﻿Results Table</strong></p>",
+        "placeholder": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">Double click to edit text</strong></p>",
         "style": {
           "wrap": true
         }
@@ -8065,6 +8075,7 @@
       "label": "Text 13",
       "config": {
         "text": "<p><span style=\"color: var(--sys-color-secondary-text);\"> Select Existing Polygon(s)</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11120,6 +11131,7 @@
       "label": "Text 14",
       "config": {
         "text": "<p><span style=\"color: var(--dark-800); font-size: 13px;\">﻿</span><exp data-uniqueid=\"0c40dd62_02b8_ba89_5b3f_0d2ac6c16b44\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22project_name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Project}﻿﻿</span>﻿</exp> |&nbsp;<exp data-uniqueid=\"5ad15236_087a_5517_3626_74120e271455\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%20Subtitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%20Subtitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22project_subname%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Project Subtitle}﻿</span>﻿</exp>&nbsp;|<exp data-uniqueid=\"a3d4ea84_b128_c305_5eae_aba9604cf3fa\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%20Year%3A%20Fiscal%20or%20Calendar%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%20Year%3A%20Fiscal%20or%20Calendar%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22Year%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Project Year: Fiscal or Calendar}</span>﻿</exp>&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -11148,6 +11160,7 @@
       "label": "Text 15",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30px;\">﻿</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong style=\"color: var(--mixin-shared-theme-button-bg); font-size: 30px;\"><span class=\"ql-cursor\">﻿</span>Demo Video Coming Soon!</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -11217,6 +11230,7 @@
       "label": "Text 16",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 30px; color: var(--mixin-shared-theme-button-color);\">﻿Welcome to the U.S. Mapping Coordination Site </strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 30px; color: var(--mixin-shared-theme-button-color);\">Beta Test!</strong></p>",
+        "placeholder": "<p style=\"text-align: center;\"><strong style=\"font-size: 14px;\">Title</strong></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -11230,6 +11244,7 @@
       "label": "Text 17",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 15px;\">First time visiting? Click </span><strong style=\"font-size: 15px;\">Next</strong><span style=\"font-size: 15px;\"> for a brief layout walkthrough.</span></p>",
+        "placeholder": "<p style=\"text-align: center;\"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -11282,6 +11297,7 @@
       "label": "Text 18",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--ref-palette-neutral-1300); font-size: 20px;\">﻿</strong><strong style=\"color: var(--mixin-shared-theme-button-color); font-size: 20px;\">Submit Feedback</strong></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: center;\"><span style=\"color: var(--mixin-shared-theme-button-color); font-size: 15px;\">As you have questions, comments, bugs, and other ideas, please share them with the development team using the \"Send Feedback\" button </span></p><p style=\"text-align: center;\"><span style=\"color: var(--mixin-shared-theme-button-color); font-size: 15px;\">on the upper right and fill out the form.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11381,6 +11397,7 @@
       "label": "Text 19",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Tool Bar</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">Access all previous tools and discover new features like Ruler, Table, and Charts. Click the navigation menu on the left to start exploring!</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11966,6 +11983,7 @@
       "label": "Text 20",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Beta Testing Instructions </strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">Click on the leftmost button on the header to open up the beta testing instructions in a new window. </span></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">These instructions should have also been emailed to you.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13313,18 +13331,11 @@
       }
     }
   },
-  "publishTimestamp": 1788993483923,
+  "publishTimestamp": 1761630057618,
   "attributes": {
-    "portalUrl": "https://noaa.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "ZlFPJZKbSphMrjyY",
-    "express": false,
-    "title": "USMpC Layout Spatial Priorities Integrated",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": null
+    "portalUrl": "https://noaa.maps.arcgis.com"
   },
-  "timestamp": 1788993340378,
+  "timestamp": 1789000670999,
   "sharedThemeVariables": {
     "header": {
       "bg": "#002673",
@@ -13924,18 +13935,6 @@
       "url": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
       "source": "org",
       "orgSetting": {}
-    }
-  },
-  "historyLabels": {
-    "views": {
-      "view_2": [
-        "Map Layers"
-      ]
-    },
-    "dialogs": {
-      "dialog_2": [
-        "Window"
-      ]
     }
   }
 }
