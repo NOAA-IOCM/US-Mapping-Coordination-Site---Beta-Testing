@@ -6982,7 +6982,6 @@
       "label": "Header Text",
       "config": {
         "text": "<p><strong style=\"font-size: 15px; color: var(--mixin-shared-theme-header-color);\">U.S. Mapping Coordination</strong></p><p><em style=\"color: var(--mixin-shared-theme-header-color); font-size: 0.9375rem;\">A Collaboration Site for Mapping Data Acquisition</em>﻿</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8169,7 +8168,6 @@
       "label": "Text 4",
       "config": {
         "text": "<h6 style=\"text-align: center;\"><strong style=\"color: var(--mixin-shared-theme-body-link);\">﻿Select a Basemap</strong></h6>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         },
@@ -8191,7 +8189,6 @@
       "label": "Text 5",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--mixin-shared-theme-body-link); font-size: 18px;\">Select Map Layers </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8204,7 +8201,6 @@
       "label": "Text 6",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Legend(s)﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8217,7 +8213,6 @@
       "label": "Filter Sidebar Header",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Filter by Survey Plans and </strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Spatial Priority Results</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8230,7 +8225,6 @@
       "label": "Text 8",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"color: var(--mixin-shared-theme-body-link); font-size: 18px;\">Discover Project Overlaps</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8297,7 +8291,6 @@
       "label": "Text 9",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Add External Data</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8310,7 +8303,6 @@
       "label": "Text 10",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Measurement Tool</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8323,7 +8315,6 @@
       "label": "Text 11",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Share </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -8336,7 +8327,6 @@
       "label": "Text 12",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">﻿Results Table</strong></p>",
-        "placeholder": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">Double click to edit text</strong></p>",
         "style": {
           "wrap": true
         }
@@ -8695,7 +8685,6 @@
       "label": "Text 13",
       "config": {
         "text": "<p><span style=\"color: var(--sys-color-secondary-text);\"> Select Existing Polygon(s)</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11751,7 +11740,6 @@
       "label": "Text 14",
       "config": {
         "text": "<p><span style=\"color: var(--dark-800); font-size: 13px;\">﻿</span><exp data-uniqueid=\"0c40dd62_02b8_ba89_5b3f_0d2ac6c16b44\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22project_name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Project}﻿﻿</span>﻿</exp> |&nbsp;<exp data-uniqueid=\"5ad15236_087a_5517_3626_74120e271455\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%20Subtitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%20Subtitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22project_subname%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Project Subtitle}﻿</span>﻿</exp>&nbsp;|<exp data-uniqueid=\"a3d4ea84_b128_c305_5eae_aba9604cf3fa\" data-dsid=\"dataSource_3-19fc912edcb-layer-11\" data-expression=\"%7B%22name%22%3A%22%7BProject%20Year%3A%20Fiscal%20or%20Calendar%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProject%20Year%3A%20Fiscal%20or%20Calendar%7D%22%2C%22dataSourceId%22%3A%22dataSource_3-19fc912edcb-layer-11%22%2C%22jimuFieldName%22%3A%22Year%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Project Year: Fiscal or Calendar}</span>﻿</exp>&nbsp;</p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -11780,7 +11768,6 @@
       "label": "Text 15",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 30px;\">﻿</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong style=\"font-size: 30px; color: var(--mixin-shared-theme-button-bg);\">﻿Coming Soon!</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -11850,7 +11837,6 @@
       "label": "Text 16",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--mixin-shared-theme-button-color); font-size: 30px;\">﻿Welcome to the U.S. Mapping Coordination Site!</strong></p>",
-        "placeholder": "<p style=\"text-align: center;\"><strong style=\"font-size: 14px;\">Title</strong></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -11864,7 +11850,6 @@
       "label": "Text 17",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 15px;\">Our site has recently changed! </span></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">Whether it is your first time visiting or you are a long- time user, click </span><strong style=\"font-size: 15px;\">Next</strong><span style=\"font-size: 15px;\"> for a brief walkthrough.</span></p>",
-        "placeholder": "<p style=\"text-align: center;\"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -11917,7 +11902,6 @@
       "label": "Text 18",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px; color: var(--mixin-shared-theme-button-color);\">Check out the Revamped Spatial Priorities Layer!﻿</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px; color: var(--mixin-shared-theme-button-color);\">Use the Spatial Priorities filter to active this newly revamped layer and understand the spatial priorities near your region of interest. </span></p><p style=\"text-align: center;\"><span style=\"font-size: 15px; color: var(--mixin-shared-theme-button-color);\">Use the accompanying chart tool to further refine the results and explore. </span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12029,7 +12013,6 @@
       "label": "Text 19",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Tool Bar</strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">All of the tools have migrated to the collapsible toolbar on the left side of the map. </span></p><p style=\"text-align: center;\"><span style=\"font-size: 15px;\">Old functionality has been preserved and new tools and features have been added - such as a measurement, table, and chart. </span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12615,7 +12598,6 @@
       "label": "Text 20",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Additional Resources and Site Engagement Opportunities </strong></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">The buttons on the header lead to a User Guide (coming soon!), a quick form to submit </p><p style=\"text-align: center;\">any plans to the site, and another form to submit any feedback or ask questions.</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16316,7 +16298,6 @@
       "label": "Table ToolTip Text",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Table </u></strong></p><p><br></p><p><span style=\"font-size: 14px;\">To start, select a data layer for the table to display using the tabs in the upper-left hand corner.</span></p><p><br></p><p><span style=\"font-size: 14px;\">To filter down the table data, utilize the six icons on the top right to get to the records you want to see.</span></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Show selection: Toggle the display of only the selected records</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Clear selection: Clear the selected records in the table </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Refresh: Reload data set to reflect changes in filters. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Show/hide columns: Toggle which columns to display when viewing the tabular data.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Filter by map extent: Toggle this option to only display records that are visible in the map extent. The records will automatically re-filter when panning around and zooming in and out of the map. This function will stay on even if you collapse the table. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Actions: Displays All records, a zoom to function, and export function.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16370,7 +16351,6 @@
       "label": "Filter ToolTip Text",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Filters</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Click on the toggle switch to blue in order to activate that set of filters and have the results become visible on the map. Click on the toggle again to white to deactivate that set of filters and remove those results from the map.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The dropdown filters in both the Plans and Priorities and the Spatial Priorities Studies are dynamic meaning whatever option you choose for a previous dropdown will affect what can be chosen for the following dropdowns.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">To view the Spatial Priorities Studies geometry, toggle its filter on and ensure that one of the five regions (studies: Alaska, Florida, Great Lakes, IWG-OCM, NOAA) are selected in order to view the results on the map.</span></li></ol><p><br></p><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16424,7 +16404,6 @@
       "label": "Legend ToolTip Text ",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Legend</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The legends for each layer that is visible on the map will appear here. Toggle the visibility of the layers to add or remove them from the legend menu.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16437,7 +16416,6 @@
       "label": "Measure ToolTip Text ",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Measurement Tool</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Select either the measure distance or measure area tool. Measure distance enables you to create a polyline and change the measurement units to various options. Measure area enables you to create a polygon and change the measurement units to various options.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16449,8 +16427,7 @@
       "version": "1.20.0",
       "label": "Share ToolTip Text ",
       "config": {
-        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Share Tool</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The legends for each layer that is visible on the map will appear here. Toggle the visibility of the layers to add or remove them from the legend menu.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Share Tool</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Share your custom web map view with all of your filters and layers that you’ve toggled with others via LinkedIn, Embedded link, QR code, Email, or generated short link.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
         "style": {
           "wrap": true
         }
@@ -16463,7 +16440,6 @@
       "label": "Chart ToolTip Text ",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Chart Tool</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The chart is a companion tool for the Spatial Priorities Studies and it displays statistics on the programs/agencies involved in a certain area as well as the kind of data topics/interests they are responding to in a percentage format</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The top chart shows the percentage of agencies/organizations that are present in a particular study or interested in a selected topic/interest. If the data is filtered down to one agency/organization, then the chart will display 100%.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">The bottom chart shows the percentage of interests present based on the selected study and agencies/organizations. If the data is filtered down to one topic/interest, then the chart will display 100%.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16599,7 +16575,6 @@
       "label": "Text 21",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--mixin-shared-theme-body-link);\">Spatial Priorities Charts</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16612,7 +16587,6 @@
       "label": "Map Layers ToolTip Text",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><u>How to use the Map Layers</u></strong></p><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">There are two tabs for this tool, \"All Layers\" and \"Active Layers\"</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">In the All Layers tab, use the plus symbols to expand the different categories of data and reference layers. Use the checkboxes to turn on/off the layer. You can also use the two buttons on the right side of each layer to see the associated legend and further information about the layer.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 14px;\">Once a layer is turned on, it appears in the Active Layers tab. In the Active Layers tab, you can rearrange the order of the layers by clicking and dragging the six dot grid on the left side. To turn off a layer click on the eyeball icon that appears next to the legend button. You can also see the legend or open the options (ellipsis) button to zoom to the layer, adjust the transparency of the layer, see item details, and export it. The button in the upper corner of this tab allows you to turn on/off all layers and open/close all nested layers at the same time.</span></li></ol><p><br></p><p><em>Click outside this window to close it.</em></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18289,11 +18263,18 @@
       }
     }
   },
-  "publishTimestamp": 1761630057618,
+  "publishTimestamp": 1792711895904,
   "attributes": {
-    "portalUrl": "https://noaa.maps.arcgis.com"
+    "portalUrl": "https://noaa.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "ZlFPJZKbSphMrjyY",
+    "express": false,
+    "title": "USMpC Layout Spatial Priorities Integrated",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
-  "timestamp": 1792709978694,
+  "timestamp": 1792711889500,
   "sharedThemeVariables": {
     "header": {
       "bg": "#002673",
@@ -18893,6 +18874,30 @@
       "url": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
       "source": "org",
       "orgSetting": {}
+    }
+  },
+  "historyLabels": {
+    "views": {
+      "view_2": [
+        "Map Layers"
+      ],
+      "view_7": [
+        "Ruler"
+      ],
+      "view_15": [
+        "How to leave Feedback"
+      ],
+      "view_24": [
+        "Beta Test Guide"
+      ]
+    },
+    "dialogs": {
+      "dialog_2": [
+        "Window"
+      ],
+      "dialog_6": [
+        "Welcome to Beta Test Window"
+      ]
     }
   }
 }
