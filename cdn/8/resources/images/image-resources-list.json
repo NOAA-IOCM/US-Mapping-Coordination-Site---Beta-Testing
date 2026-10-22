@@ -173,9 +173,7 @@
     "url": "${appResourceUrl}/images/widget_194/1788899925536.png",
     "created": 1788899925536,
     "resourcesPrefix": "images/widget_194",
-    "referredIds": [
-      "1788990702541"
-    ],
+    "referredIds": [],
     "originId": "1788899925536",
     "fileFormat": "image/png",
     "originalWidth": 1915,
@@ -228,6 +226,98 @@
     "referredIds": [],
     "fileFormat": "image/jpeg",
     "originId": "1788993219555",
+    "resourcesPrefix": "images/templates"
+  },
+  "1792091354838": {
+    "originalName": "USGS Topo.png",
+    "fileName": "1792091354838.png",
+    "size": 1402784,
+    "url": "${appResourceUrl}/images/widget_5/1792091354838.png",
+    "created": 1792091354838,
+    "resourcesPrefix": "images/widget_5",
+    "referredIds": [],
+    "originId": "1792091354838",
+    "fileFormat": "image/png",
+    "originalWidth": 1017,
+    "originalHeight": 835
+  },
+  "1792709018503": {
+    "originalName": "Screenshot 2026-10-22 154214.png",
+    "fileName": "1792709018503.png",
+    "size": 2180654,
+    "url": "${appResourceUrl}/images/widget_194/1792709018503.png",
+    "created": 1792709018503,
+    "resourcesPrefix": "images/widget_194",
+    "referredIds": [
+      "1792709173659"
+    ],
+    "originId": "1792709018503",
+    "fileFormat": "image/png",
+    "originalWidth": 1610,
+    "originalHeight": 905
+  },
+  "1792709173659": {
+    "file": {},
+    "fileName": "1792709173659.jpeg",
+    "url": "${appResourceUrl}/images/templates/1792709173659.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1792709018503",
+    "resourcesPrefix": "images/templates"
+  },
+  "1792709464584": {
+    "originalName": "Screenshot 2026-10-22 155047.png",
+    "fileName": "1792709464584.png",
+    "size": 1454347,
+    "url": "${appResourceUrl}/images/widget_204/1792709464584.png",
+    "created": 1792709464584,
+    "resourcesPrefix": "images/widget_204",
+    "referredIds": [
+      "1792709480543"
+    ],
+    "originId": "1792709464584",
+    "fileFormat": "image/png",
+    "originalWidth": 1456,
+    "originalHeight": 649
+  },
+  "1792709480543": {
+    "file": {},
+    "fileName": "1792709480543.jpeg",
+    "url": "${appResourceUrl}/images/templates/1792709480543.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1792709464584",
+    "resourcesPrefix": "images/templates"
+  },
+  "1792709834426": {
+    "originalName": "Screenshot 2026-10-22 155701.png",
+    "fileName": "1792709834426.png",
+    "size": 1484839,
+    "url": "${appResourceUrl}/images/widget_191/1792709834426.png",
+    "created": 1792709834426,
+    "resourcesPrefix": "images/widget_191",
+    "referredIds": [],
+    "originId": "1792709834426",
+    "fileFormat": "image/png",
+    "originalWidth": 1923,
+    "originalHeight": 850
+  },
+  "1792709954779": {
+    "file": {},
+    "fileName": "1792709954779.jpeg",
+    "url": "${appResourceUrl}/images/templates/1792709954779.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1792709834426",
+    "resourcesPrefix": "images/templates"
+  },
+  "1792709969979": {
+    "file": {},
+    "fileName": "1792709969979.jpeg",
+    "url": "${appResourceUrl}/images/templates/1792709969979.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1792709834426",
     "resourcesPrefix": "images/templates"
   }
 }
